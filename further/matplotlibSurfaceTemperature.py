@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.colors
 import numpy as np  
 
-gamma = 0.5*np.pi # in radians
+gamma = 0.5*np.pi # magnetization angle, in radians
 Tequat5 = 3.0e5   # temperature in the magnetic equator * 10^5 kelvin
 Tpolar5 = 7.0e5   # temperature in the hotspots (magnetic poles) * 10^5 kelvin
 chi04 = (Tequat5/Tpolar5)**4
