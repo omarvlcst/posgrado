@@ -6,4 +6,4 @@ An additional directory called "subroutines" includes all the Fortran subroutine
 
 <h3>For converting the wrapped f2py module into Python, simply type down in a Linux terminal the command: </h3>
 
-**~$ make Trayectoria_Py_P**
+~$ **make Trayectoria_Py_P**
