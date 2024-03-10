@@ -1,4 +1,4 @@
-This code is thought for use in Linux (tested and successful in Ubuntu 22, gcc and gfortran version 9). 
+This code is thought for being compiled and executed in a Linux terminal (tested and successful in Ubuntu 22, gcc and gfortran version 9). 
 
 The Makefile makefile includes all the instructions for gcc compiling and creating a Python module called: *"Trayectoria_Py_P"* that will pass the Fortran subroutines into functions reusable inside a Python framework and environment.
 
