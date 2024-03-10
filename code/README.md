@@ -9,3 +9,9 @@ An additional directory called "subroutines" includes all the Fortran subroutine
 ~$ chmod 777 *.for
 
 ~$ make Trayectoria_Py_P
+
+After editing out any piece of the code and trying to recompile again with the newest version of the files, first clean the memory by typing:
+
+~$ make clean
+
+And then, the instruction *make Trayectoria_Py_P* will recompile succesfully again everything from that latest version.
