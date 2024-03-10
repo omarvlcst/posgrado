@@ -4,6 +4,6 @@ The Makefile makefile includes all the instructions for gcc compiling and creati
 
 An additional directory called "subroutines" includes all the Fortran subroutines that are used in the code, and a respective Makefile for generating *"Trayectoria.out"* as an executable program in Fortran.
 
-<h2>For converting the wrapped f2py module into Python, simply type down in a Linux terminal the command: </h2>
+<h3>For converting the wrapped f2py module into Python, simply type down in a Linux terminal the command: </h3>
 
-**make Trayectoria_Py_P**
+**~$ make Trayectoria_Py_P**
