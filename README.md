@@ -2,7 +2,7 @@
 
 This repository is divided into three main directories:
 
-- My dissertation work, together with pictures, illustrations, and references.
+- My Masters dissertation work, together with pictures, illustrations, and references.
 - The main code I used for my project, developed together with my main tutor, Dr. Dany Page. This code includes three features:
   - an integrator of the Schwarzschild-like photon null trajectories from a compact star traveling to a remote observer at infinity,
   - an additional program for pasting any picture or array of pixels at the surface of the star and how we as remote observers look to its appearance after the gravitational bending of light aberrates the original image,
