@@ -1,6 +1,6 @@
 # posgrado
 
-This repository is divided into three main directories:
+This repository is divided into three main folders:
 
 - My Masters dissertation work, together with pictures, illustrations, and references.
 - The main code I used for my project, developed together with my main tutor, Dr. Dany Page. This code includes three features:
