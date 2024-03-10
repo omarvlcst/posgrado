@@ -15,3 +15,8 @@ After editing out any piece of the code and trying to recompile again with the n
 ~$ make clean
 
 And then, the instruction "*make Trayectoria_Py_P*" will recompile and execute the f2py module succesfully in its latest version.
+
+<h3> Dependencies and Requirements for running the code w/o trouble: </h3>
+
+- cmake
+- Don't overrun in too many points for the integrator. In the file called "*size.for*", customize the array of points for the variables xd and thetad, so that they don't exceed the amount of memory left in your computer.
