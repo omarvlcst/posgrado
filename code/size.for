@@ -1,0 +1,4 @@
+       integer MAXSTP,NMAX,KMAXX,Nx,Nth,d1,d2
+       PARAMETER (MAXSTP=10000,NMAX=50,KMAXX=10000,Nx=500,Nth=3600)
+C       !!!!!! en I7 poner MAXSTP=KMAXX=100000 ó 10000
+       PARAMETER (d1=3000,d2=3000)

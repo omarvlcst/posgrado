@@ -1,0 +1,8 @@
+alias do='make Trayectoria.out'
+alias go='nice -n 10 time Trayectoria.out'
+alias dopy='make Trayectoria_Py'
+alias dopyp='make Trayectoria_Py_P'
+alias clean='rm -f *.o *.out'
+export OMP_STACKSIZE=1024M
+ulimit -s 1024000
+
