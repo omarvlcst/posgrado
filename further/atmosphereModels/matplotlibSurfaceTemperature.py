@@ -44,5 +44,4 @@ ax.set_xticks([])
 ax.set_yticks([])
 ax.set_zticks([])
 
-
 plt.show()
