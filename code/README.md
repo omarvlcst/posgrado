@@ -10,7 +10,7 @@ An additional directory called "subroutines" includes all the Fortran subroutine
 
 ~$ make Trayectoria_Py_P
 
-After editing out any piece of the code and trying to recompile again with the newest version of the files, first clean the memory by typing:
+<h3> After editing out any piece of the code and trying to recompile again with the newest version of the files, first clean the memory by typing: </h3>
 
 ~$ make clean
 
