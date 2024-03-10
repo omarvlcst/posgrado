@@ -14,7 +14,7 @@ def tsup_norm(x,y,z):
     f1 = 4*f**2
     f2 = 3*f**2 + rsq
     ts4 = f1/f2 * (1.0-chi04) + chi04
-    return Tpolar5*np.abs(ts4)**(0.25)
+    return Tpolar5*ts4**(0.25)
 
 def sphere_surface(r):
     u = np.linspace(2 * np.pi/720, 2 * np.pi, 720)
