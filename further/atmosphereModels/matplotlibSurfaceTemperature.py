@@ -12,7 +12,7 @@ def tsup_norm(x,y,z):
     rsq = np.square(x) + np.square(y) + np.square(z)
     f = x*np.sin(gamma) + z*np.cos(gamma)
     f1 = 4*f**2
-    f2 = 3*f + rsq
+    f2 = 3*f**2 + rsq
     ts4 = f1/f2 * (1.0-chi04) + chi04
     return Tpolar5*np.abs(ts4)**(0.25)
 
