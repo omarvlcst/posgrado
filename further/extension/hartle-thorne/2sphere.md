@@ -4,4 +4,4 @@ $$d\Sigma^2 = \left(1-\dfrac{2GQ}{c^2}P_2(\cos\theta)\right)\left(d\theta^2+\sin
 
 With this, we would like to compute the geodesics onto the surface of the 2-sphere. We have the Lagrangian:
 
-$$L=\displaystyle \int_A^B d\Sigma = \displaystyle \int_A^B  d\lambda \sqrt{\left(1-\dfrac{2GQ}{c^2}P_2(\cos\theta)\right)\left(d\theta^2+\sin^2\theta d\phi^2\right)}$$
+$$L=\displaystyle \int_A^B d\Sigma = \displaystyle \int_A^B  d\lambda \quad\sqrt{\left(1-\dfrac{2GQ}{c^2}P_2(\cos\theta)\right)\left(d\theta^2+\sin^2\theta d\phi^2\right)}$$
