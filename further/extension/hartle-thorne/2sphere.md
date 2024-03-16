@@ -8,4 +8,4 @@ $$S=\displaystyle \int_A^B d\Sigma = \displaystyle \int_A^B  d\lambda \mbox{ }\s
 
 If we apply the Euler-Lagrange equations for the new Lagrangian $\mathcal{L}$, we get:
 
-$$\dfrac{\partial}{\partial \theta}\left(\dfrac{\partial\mathcal{L}}{\partial\phi '}\right)$$
+$$\dfrac{\partial}{\partial \theta}\left(\dfrac{\partial\mathcal{L}}{\partial\phi '}\right)=\dfrac{\partial\mathcal{L}}{\partial\phi }=0.$$
