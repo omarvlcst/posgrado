@@ -18,4 +18,4 @@ for $C$, an integration constant. The full equation of motion can be expressed a
 
 $$\phi'=\dfrac{d\phi}{d\theta}=\dfrac{C}{\sin\theta\mbox{ }\sqrt{\left(1-\dfrac{2GQ}{c^2}P_2(\cos\theta)\right)\sin^2\theta - C^2}} = \dfrac{C}{\sin\theta\mbox{ }\sqrt{\left(1-\dfrac{2GQ}{c^2}P_2(\cos\theta)\right)\sin^2\theta - C^2}}$$
 
-$$\dfrac{d\phi}{d\theta} = \dfrac{C}{\sin\theta\mbox{ }\sqrt{ 1 - q (-1 + 3 \cos^2(x)) \sin^2x  - C^2}}$$
+$$\dfrac{d\phi}{d\theta} = \dfrac{C}{\sin\theta\mbox{ }\sqrt{ 1 - q (-1 + 3 \cos^2\theta) \sin^2\theta  - C^2}}$$
