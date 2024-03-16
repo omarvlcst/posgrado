@@ -12,4 +12,6 @@ $$\dfrac{\partial}{\partial \theta}\left(\dfrac{\partial\mathcal{L}}{\partial\ph
 
 After this ansatz, we can get a first equation of motion by elaborating and finding that:
 
-$$\dfrac{\sin^2\theta\mbox{ }\phi'\mbox{ }\sqrt{1-\dfrac{2GQ}{c^2}P_2(\cos\theta)}}{\sqrt{1+\sin^2\theta \mbox{ }\phi'^2}}$$
+$$\dfrac{\sin^2\theta\mbox{ }\phi'\mbox{ }\sqrt{1-\dfrac{2GQ}{c^2}P_2(\cos\theta)}}{\sqrt{1+\sin^2\theta \mbox{ }\phi'^2}}=C,$$
+
+for $C$, an integration constant.
