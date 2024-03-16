@@ -4,8 +4,8 @@ import matplotlib.colors
 import numpy as np  
 
 gamma = 0.5*np.pi # magnetization angle, it can go from 0 to pi/2 in radians
-Tequat5 = 3.0e5   # temperature in the magnetic equator * 10^5 kelvin
-Tpolar5 = 7.0e5   # temperature in the hotspots (magnetic poles) * 10^5 kelvin
+Tequat5 = 3.0e5   # temperature in the magnetic equator in kelvins
+Tpolar5 = 7.0e5   # temperature in the hotspots (magnetic poles) in kelvins
 chi04 = (Tequat5/Tpolar5)**4
 
 def tsup_norm(x,y,z):
