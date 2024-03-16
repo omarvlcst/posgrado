@@ -16,4 +16,4 @@ $$\dfrac{\sin^2\theta\mbox{ }\phi'\mbox{ }\sqrt{1-\dfrac{2GQ}{c^2}P_2(\cos\theta
 
 for $C$, an integration constant. The full equation of motion can be expressed as:
 
-$$\phi'=\dfrac{d\phi}{d\theta}=\dfrac{c}{\sin\theta\mbox{ }\sqrt{\left(1-\dfrac{2GQ}{c^2}P_2(\cos\theta)\right)\sin^2\theta - c^2}}$$
+$$\phi'=\dfrac{d\phi}{d\theta}=\dfrac{C}{\sin\theta\mbox{ }\sqrt{\left(1-\dfrac{2GQ}{c^2}P_2(\cos\theta)\right)\sin^2\theta - C^2}}$$
