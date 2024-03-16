@@ -11,12 +11,17 @@ An additional directory called "subroutines" includes all the Fortran subroutine
 
 <h3>For compiling  all the .for files in Fortran and end up converting the wrapped f2py module into Python as an executable, simply type down in a Linux terminal the commands: </h3>
 
+```
 ~$ chmod 777 *.for
 
 ~$ make Trayectoria_Py_P
 
+```
+
 <h3> After editing out any piece of the code and trying to recompile again with the newest version of the files, first clean the memory by typing: </h3>
 
+```
 ~$ make clean
+```
 
 And then, the instruction "*make Trayectoria_Py_P*" will recompile and execute the f2py module succesfully in its latest version.
