@@ -14,4 +14,6 @@ After this ansatz, we can get a first equation of motion by elaborating and find
 
 $$\dfrac{\sin^2\theta\mbox{ }\phi'\mbox{ }\sqrt{1-\dfrac{2GQ}{c^2}P_2(\cos\theta)}}{\sqrt{1+\sin^2\theta \mbox{ }\phi'^2}}=C,$$
 
-for $C$, an integration constant.
+for $C$, an integration constant. The full equation of motion can be expressed as:
+
+$$\phi'=\dfrac{d\phi}{d\theta}=\dfrac{c}{\sin\theta\mbox{ }\sqrt{\left(1-\dfrac{2GQ}{c^2}P_2(\cos\theta)\right)\sin^2\theta - c^2}}$$
