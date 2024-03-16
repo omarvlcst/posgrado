@@ -12,4 +12,4 @@ $$\dfrac{\partial}{\partial \theta}\left(\dfrac{\partial\mathcal{L}}{\partial\ph
 
 After this ansatz, we can get a first equation of motion by elaborating and finding that:
 
-$$\dfrac{\sqrt{\left(1-\dfrac{2GQ}{c^2}P_2(\cos\theta)}\sin^2\theta\mbox{}\phi'}{\sqrt{1+\sin^2\theta \mbox{ }\phi'^2}}$$
+$$\dfrac{\sqrt{1-\dfrac{2GQ}{c^2}P_2(\cos\theta)}\sin^2\theta\mbox{}\phi'}{\sqrt{1+\sin^2\theta \mbox{ }\phi'^2}}$$
