@@ -4,6 +4,6 @@ $$d\Sigma^2 = \left(1-\dfrac{2GQ}{c^2}P_2(\cos\theta)\right)\left(d\theta^2+\sin
 
 With this, we would like to compute the geodesics onto the surface of the 2-sphere. We have the Lagrangian:
 
-$$L=\displaystyle \int_A^B d\Sigma = \displaystyle \int_A^B  d\lambda \mbox{ }\sqrt{\left(1-\dfrac{2GQ}{c^2}P_2(\cos\theta)\right)\left(\dot{\theta}^2+\sin^2\theta\mbox{ } \dot{\phi}^2\right)}= \displaystyle \int_{\theta_A}^{\theta_B}  d\theta \mbox{ }\sqrt{\left(1-\dfrac{2GQ}{c^2}P_2(\cos\theta)\right)\left(1+\sin^2\theta \mbox{ }\phi'^2\right)}= \displaystyle \mathcal{L}$$
+$$L=\displaystyle \int_A^B d\Sigma = \displaystyle \int_A^B  d\lambda \mbox{ }\sqrt{\left(1-\dfrac{2GQ}{c^2}P_2(\cos\theta)\right)\left(\dot{\theta}^2+\sin^2\theta\mbox{ } \dot{\phi}^2\right)}= \displaystyle \int_{\theta_A}^{\theta_B}  d\theta \mbox{ }\sqrt{\left(1-\dfrac{2GQ}{c^2}P_2(\cos\theta)\right)\left(1+\sin^2\theta \mbox{ }\phi'^2\right)}= \displaystyle \int_{\theta_A}^{\theta_B}  d\theta\mathcal{L}$$
 
 
