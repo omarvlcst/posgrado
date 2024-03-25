@@ -1,1 +1,1 @@
-Entrevista Académica para Doctorado en Astrofísica
+Ensayo preparativo para Entrevista Académica para Doctorado en Astrofísica
