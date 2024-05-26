@@ -1,4 +1,4 @@
-# posgrado
+# posgrado (EN/ES)
 
 This repository is divided into three main folders:
 
